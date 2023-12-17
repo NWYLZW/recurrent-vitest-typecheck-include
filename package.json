@@ -1,7 +1,8 @@
 {
   "scripts": {
     "test:a": "vitest --typecheck -c vitest.config.a.js --no-watch",
-    "test:b": "vitest --typecheck -c vitest.config.b.js --no-watch"
+    "test:b": "vitest --typecheck -c vitest.config.b.js --no-watch",
+    "test:c": "vitest --typecheck -c vitest.config.c.js --no-watch"
   },
   "dependencies": {
     "typescript": "^5.3.3",
